@@ -67,7 +67,8 @@ Check some examples in the folder /maps.
 
 As in /maps/map.ber:
 
-![map](https://github.com/B-azeddine/so_long_v2/assets/74467756/63a86ed7-538a-40bb-8d85-d4189e43944c)
+
+![163024984-1ff511c1-17d2-4eef-8d97-90cc8a884c73](https://github.com/B-azeddine/So_long/assets/74467756/c82064e1-7d58-40fc-9ecd-1e6fe56b6591)
 
 
 # <p align="center"> We use techniques like ✍ : </p>
